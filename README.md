@@ -66,7 +66,7 @@ Hi, if you're using this tool there is a few things to know :
       - move : [move, None] if move: move, else copy.
       - n_jobs : [int] number of processes that will be run in parallel for the loading and distance calculations.
       - time : [int] number of seconds to read on the file beginning at 40 seconds, usually 15<x>30 does the trick
-      - dendo : [dendo, None] if dendo : draw a dendogram with all your songs once its done, can help choosing the optimal number of playlists.
+      - dendo : [dendo, None] if dendo : draw a dendrogram with all your songs once its done, can help choosing the optimal number of playlists.
       
       
  ° If you plan on changing the code, be careful not to erase all your songs forever with shutil.rmtree （＞人＜；）
