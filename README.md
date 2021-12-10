@@ -58,7 +58,7 @@ Hi, if you're using this tool there is a few things to know :
   ° Example run command : 
   
   
-      From bash : python3 Music_Classifier.py method=short number_genres=4 alter_path=wav move=move n_jobs=3 time=15 dendo="dendo"
+      From bash : python3 Music_Classifier.py method=short number_genres=4 alter_path=wav move=move n_jobs=3 time=15 dendo=dendo
       
       - method : [short] the distance metric used, currently only "short" available.
       - number_genres : [int] number of playlists that will be created /!\ depending on the run there can be 0 / 1 song in some plalists.
